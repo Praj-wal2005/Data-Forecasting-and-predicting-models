@@ -1,0 +1,4 @@
+pip install flask
+pip install yfinance prophet pandas plotly
+
+##These two are librarires##
